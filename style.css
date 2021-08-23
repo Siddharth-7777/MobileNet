@@ -1,0 +1,66 @@
+body {
+    background-color: #e49ed2;
+    font-family: 'Special Elite', cursive;
+
+}
+
+.header_div {
+    background: rgb(26, 114, 230);
+    color: #2cdf1b
+}
+
+.header_div img {
+    width: 100px
+}
+
+.main_div {
+    background: #c869a0;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid whitesmoke
+}
+
+.main_div label {
+    background: #b7c869;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid whitesmoke
+}
+
+#camera {
+    border: 2px solid #69a5c8;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black
+}
+
+.main_div2 {
+    background: rgb(187, 204, 31);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid whitesmoke
+}
+
+
+.main_div2 label {
+    background: #b7c869;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid
+}
+
+#result {
+    border: 2px solid #69a5c8;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px #c333c8
+}
+
+#bulb {
+    width: 100px;
+    height: 100px;
+}
+
+#object_name {
+    font-size: 20
+}
